@@ -1,0 +1,1 @@
+Sveiki, jūsų „Kryptet“ patvirtinimo kodas yra: ${code}. Dar kartą, jūsų kodas yra: ${code}

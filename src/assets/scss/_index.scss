@@ -1,0 +1,23 @@
+.index {
+  h5 {
+    margin-top: 24px;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  ol {
+    margin: 0;
+    li {
+      font-size: 18px;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+  }
+
+  .flag-icon {
+    box-shadow: 2px 1px 2px #666;
+    margin-left: 4px;
+    background-size: cover;
+    opacity: 0.8;
+  }
+}
